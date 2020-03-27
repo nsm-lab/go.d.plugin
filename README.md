@@ -1,4 +1,5 @@
 # go.d.plugin
+<<<<<<< HEAD
 
 [![CircleCI](https://circleci.com/gh/netdata/go.d.plugin.svg?style=svg)](https://circleci.com/gh/netdata/go.d.plugin)
 
@@ -135,3 +136,6 @@ sudo su -s /bin/bash netdata
 
 Change `<module name>` to the module name you want to debug.
 See the [whole list](#available-modules) of available modules.
+=======
+netdata go.d.plugin
+>>>>>>> f75112de711161ae8674cc77e343d5b86c9cba81
